@@ -1,0 +1,11 @@
+{
+  "name": "Remix: VOI Robotics Pick and Place",
+  "description": "Multimodal Teleoperation Assistant using Gemini to generate Franka Panda motion plans from voice and camera input.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
