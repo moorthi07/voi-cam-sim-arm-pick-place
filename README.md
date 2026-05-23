@@ -13,6 +13,9 @@
 This application implements a high-fidelity, interactive **Imitation Learning & Teleoperation Simulator** using the Franka Emika Panda 7-DOF robotic arm. By pairing continuous human voice demonstrations (**VOICE (VOI)**) with computer-vision-based hand skeleton analysis (**CAMGEST**), operators can safely train, record, and execute complex industrial pick-and-place trajectories.
 
 ---
+<p align="center">
+  <img src="Screen Shot 2026-05-22 at 6.08.57 PM.png" width="100%" max-width="800px" alt="Imitation Learning Teleoperation Hero Visual" style="border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+</p>
 
 ## ⚡ Key Architectural Modules
 
