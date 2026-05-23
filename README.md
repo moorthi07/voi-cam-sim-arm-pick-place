@@ -3,19 +3,17 @@
 **Powering Next-Generation Edge Robotic Control with Gemini Nano Multimodal models for raw local audio waveforms and real-time physical hand joint VLM (Vision-Language-Model) gating.**
 
 ---
-
 <p align="center">
-  <img src="src/assets/images/teleoperation_hero_1779495469026.png" width="100%" max-width="800px" alt="Imitation Learning Teleoperation Hero Visual" style="border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+  <img src="Screen Shot 2026-05-22 at 6.08.57 PM.png" width="100%" max-width="800px" alt="Imitation Learning Teleoperation Hero Visual" style="border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.1);" />
 </p>
+---
 
 # 🎙️ **VOICE (VOI)** & 👁️ **CAMGEST**
 
 This application implements a high-fidelity, interactive **Imitation Learning & Teleoperation Simulator** using the Franka Emika Panda 7-DOF robotic arm. By pairing continuous human voice demonstrations (**VOICE (VOI)**) with computer-vision-based hand skeleton analysis (**CAMGEST**), operators can safely train, record, and execute complex industrial pick-and-place trajectories.
 
 ---
-<p align="center">
-  <img src="Screen Shot 2026-05-22 at 6.08.57 PM.png" width="100%" max-width="800px" alt="Imitation Learning Teleoperation Hero Visual" style="border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.1);" />
-</p>
+
 
 ## ⚡ Key Architectural Modules
 
@@ -52,3 +50,9 @@ A modern, persistent bar at the bottom of the viewport monitors all active syste
    ```
 2. **Offline Hardware Access**: Click both the **Microphone** and **Hand Gestures** icons in the header to permit hardware capture.
 3. **Webcam Orientation**: Align your hand inside the webcam viewer to begin skeletally tracking coordinate transformations.
+
+---
+<p align="center">
+  <img src="src/assets/images/teleoperation_hero_1779495469026.png" width="100%" max-width="800px" alt="Imitation Learning Teleoperation Hero Visual" style="border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+</p>
+
